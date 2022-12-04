@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Böbe\Desktop\JavaEE\WORKSPACE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2488818226.index
+1282745847.index
+2167123773.index
+2448547462.index
+3849453597.index
+3030079090.index
